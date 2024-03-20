@@ -1,0 +1,7 @@
+.animated__animated .animate_fadeIn{
+    --animate-duration: 3s;
+}
+.card-img-top {
+    height: 200px;
+    width: auto;
+  }
